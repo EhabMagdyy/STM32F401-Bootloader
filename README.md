@@ -1,6 +1,6 @@
 video link: https://drive.google.com/file/d/1RN7gnQPEX550Mp4smLjKIWc8GB9cluJC/view?usp=drivesdk
 
-#Host supported commands:
+# Host supported commands:
 1️⃣ Get version
 - Read the bootloader version from the mcu.
 2️⃣ Get help
